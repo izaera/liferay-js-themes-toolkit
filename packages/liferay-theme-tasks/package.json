@@ -57,7 +57,8 @@
 		"gogo-shell-helper": "^0.0.8",
 		"gulp": "^3.9.1",
 		"gulp-ruby-sass": "^2.0.6",
-		"gulp-sass": "^3.1.0"
+		"gulp-sass": "^3.1.0",
+		"node-sass": "4.10.0"
 	},
 	"engines": {
 		"node": ">=8.0.0"
