@@ -244,7 +244,7 @@ module.exports = function(options) {
 	});
 
 	gulp.task('build:r2', () => {
-		const r2 = require('gulp-liferay-r2-css');
+		const r2 = require('../lib/r2');
 
 		return gulp
 			.src(pathBuild + '/css/*.css')
